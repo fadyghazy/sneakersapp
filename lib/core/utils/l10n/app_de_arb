@@ -1,0 +1,6 @@
+// and now we can go inside our template file and here inside you can put key value  pairs so we have a key language and the value is in later english and secondly you can also need to put here this inside and here you can basically set a discription which is later shown within our generated file and within this file
+//we put then all of our english translations inside
+{
+"language":"Deutsch",
+"helloWorld":"Hallo Welt!"
+}

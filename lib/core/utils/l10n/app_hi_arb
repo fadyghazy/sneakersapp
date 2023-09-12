@@ -1,0 +1,6 @@
+//this hindi file and here we add then the translation  for this language  key and here we put then our value inside which is our language
+// and you also do the same thing for the other files
+{
+"language":"हिंदी",
+"helloWorld":"हैलो वर्ल्ड"
+}
